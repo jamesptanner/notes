@@ -36,19 +36,20 @@ jobs:
         run: bundle exec jekyll build
 
       - name: Stash artifacts
-        uses: actions/upload-artifacts@v2
+        uses: actions/upload-artifact@v2
         with:
           name: pages
           path: _site
 
   package:
+    needs: build
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v2
 
       - name: Download Artifacts
-        uses: actions/download-artifacts@v2
+        uses: actions/download-artifact@v2
         with:
           name: pages
 
