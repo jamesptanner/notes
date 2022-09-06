@@ -11,6 +11,5 @@ jobs:
         uses: actions/setup-ruby@v1
 
       - run: bundle install
-        
-      - name: Build Pages
-        uses: actions/jekyll-build-pages@v1.0.5
+      - name: Build pages
+        run: bundle exec jekyll build
