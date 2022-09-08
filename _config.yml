@@ -43,3 +43,7 @@ defaults:
       path: "_notes/**/*.md"
     values:
       layout: "note"
+
+# Optional. The default date format, used if none is specified in the tag.
+last-modified-at:
+    date-format: '%d-%b-%y'
