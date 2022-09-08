@@ -18,11 +18,13 @@ jobs:
       - name: Setup ruby
         uses: actions/setup-ruby@v1
 
+      - run: git --no-pager log -1
+      
       - name: Install Gems
         run:  bundle install
 
       - name: Build pages
-        run: bundle exec jekyll build
+        run: bundle exec jekyll -V build
      
       - name:  Login to Registry
         uses: docker/login-action@v2
