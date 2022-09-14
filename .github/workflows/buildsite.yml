@@ -5,15 +5,18 @@ on:
     branches: [ master ] 
 
 
+concurrency: 
+  group: ${{ github.head_ref }}
+  cancel-in-progress: true
+  
 env: 
   REGISTRY: ghcr.io
   IMAGE_NAME: ${{github.repository}}
 
 jobs:
   Build-and-Publish:
-    concurrency: 
-      group: ${{ github.head_ref }}
-      cancel-in-progress: true
+
+
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
