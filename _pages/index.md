@@ -7,10 +7,6 @@ permalink: /
 
 # Welcome! 🌱
 
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
-</p>
-
 I plan on using this site to keep track of personal projects and ideas.
 
 Im also going to be using to organise my ideas for [[korfball|korfball training sessions]]. ⛹️‍♂️
