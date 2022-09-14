@@ -1,4 +1,7 @@
 ---
+layout: notes
+title: Korfball
+id: korfball
 ---
 
 # Korfball
@@ -11,7 +14,7 @@ The main features of korfball are:
 * A team consists of 4 male and 4 female players.
 * The team is split into two 'divisions' of 2 men and 2 women who are either [[attacking]] or [[defending]].
 * Rolls are swapped every two goals, so that those who were attacking are now defending, and vis-versa.
-* It is possible to 
+* It is possible for the defending player to interrupt a goal scoring opportunity by being positioned correctly relative to the attacking player.
 
 ## The Court
 
@@ -24,3 +27,5 @@ The court can vary slightly depending on the level of the team playing however a
     * A penalty spot is placed 2.5m in front of the korf.
     * There is a circle 2.5 meters around the penalty spot indicating what is called the [[free pass]] area.
     * A extended area including 2.5m around the post which is called the [[penalty]] area.
+
+
