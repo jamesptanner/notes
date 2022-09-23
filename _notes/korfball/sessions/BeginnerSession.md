@@ -81,7 +81,7 @@ Every few minutes extend ruleset. eg
 
 ## Timings
 | Length | Activity |
-|-------|-------|
+| --- | --- |
 | 15 Minutes | shooting |
 | 10 Minutes | Introductions/explaining stations |
 | 50 minutes, 10 min blocks | rotating stations (switch 2 drink break) |
