@@ -14,8 +14,8 @@ Introduce new potential players to korfball
 
 ## Requirements
 
-Full hall
-4/5 posts
+* Full hall
+* 4/5 posts
 
 
 ## Plan
@@ -80,9 +80,9 @@ Every few minutes extend ruleset. eg
 
 
 ## Timings
-|Length|Activity|
-|---|---|
-|15 Minutes|shooting|
-|10 Minutes|Introductions/explaining stations|
-|50 minutes, 10 min blocks |rotating stations (switch 2 drink break)|
-|to end| game, stop game to explain calls |
+| Length | Activity |
+|-------|--------|
+| 15 Minutes | shooting |
+| 10 Minutes | Introductions/explaining stations |
+| 50 minutes, 10 min blocks | rotating stations (switch 2 drink break) |
+| to end | game, stop game to explain calls |
