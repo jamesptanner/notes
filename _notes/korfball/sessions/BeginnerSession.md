@@ -80,9 +80,22 @@ Every few minutes extend ruleset. eg
 
 
 ## Timings
-| Length | Activity |
-| --- | --- |
-| 15 Minutes | shooting |
-| 10 Minutes | Introductions/explaining stations |
-| 50 minutes, 10 min blocks | rotating stations (switch 2 drink break) |
-| to end | game, stop game to explain calls |
+<table>
+<tr>
+<th>Length</th>
+<th>Activity</th>
+</tr>
+<tr>
+<td> 15 Minutes </td>
+<td> shooting</td> 
+</tr>
+<tr><td> 10 Minutes</td> <td> Introductions/explaining stations</td> 
+</tr>
+<tr> <td>50 minutes, 10 min blocks </td>
+<td> rotating stations (switch 2 drink break)</td> 
+</tr>
+<tr> 
+<td>to end </td>
+<td> game, stop game to explain calls </td>
+</tr>
+</table>
