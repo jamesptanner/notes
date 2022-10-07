@@ -1,7 +1,7 @@
 ---
 layout: note
 title: Division Structure
-id: id
+id: structure
 ---
 
 # Division Structure
