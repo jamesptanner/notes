@@ -7,12 +7,13 @@ id: defense
 # Defence
 
 ## Aim
+teaching the basics of defense in korfball.
 
 ## Session length 
 2 Hrs
 
 ## Requirements
-
+1 post per 12 people.
 
 ## Plan
 
