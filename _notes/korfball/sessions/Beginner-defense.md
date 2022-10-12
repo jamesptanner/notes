@@ -16,6 +16,7 @@ teaching the basics of defense in korfball.
 1 post per 12 people.
 
 ## Plan
+go over the basics of defense in korfball. focusing mainly on rebound and getting a good position.
 
 ## Skills to cover
 
