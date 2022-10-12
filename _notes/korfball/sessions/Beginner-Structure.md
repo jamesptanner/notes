@@ -23,7 +23,7 @@ What we will cover is the basic formation of korfball. 4-0. Working the ball aro
 
 ## Skills to cover
 
-* Keeping the 4-0 Structure.
+* Keeping the 4-0 Structure. 
 * Moving into collect
 
 ### 4-0 Structure
