@@ -20,8 +20,9 @@ go over the basics of defense in korfball. focusing mainly on rebound and gettin
 
 ## Skills to cover
 
-* Skill 1
-* Skill 2
+* keeping a strong rebound defense position. 
+* holding the collect position as the defense.
+* judi
 
 ### Skill 1
 
