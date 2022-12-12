@@ -108,8 +108,8 @@ Turn into timed shooting game afterwards for a bit of competition.
 |How is the coach responding to other players/officials?|||
 |How are players responding to their coach in timeouts/pre/end of game?|||
 |What movements does the coach make throughout the match? Where do they sit/position themselves?|During game sat at the bench with their players. Occasionally standing.|Sat with players on the bench. Occasionally gets at event triggers.|
-|When and what type of coach interjections used? (time/outs/pulling division/individuals aside?) |Timeout called at -13:00 |Timetout called at -22:27|
-|How are the coaches managing positive aspects of their teams’ play?|instances of cheering goals.||
+|When and what type of coach interjections used? (time/outs/pulling division/individuals aside?) |Timeout called at -13:00 |Timetout called at -22:27, Spoke to defence (ind or divis?) at -9:45|
+|How are the coaches managing positive aspects of their teams’ play?|instances of cheering goals.|instances of cheering goals.|
 |How are the coaches managing the ‘negative aspects of their teams’ play?|||
 |What tactics have the coaches employed?|||
 |How did the coaches use substitutions? What effect did they have?|||
@@ -118,8 +118,8 @@ Turn into timed shooting game afterwards for a bit of competition.
 | Time | Team 1: Southampton | Team 2: Bearstead |
 |-|-|-|
 |0-10|started talk at timeout with attack as cloest division |7:30: timeout called. giving instruction for full duration. |
-|10-20|Timeout called at 17:00 |sub broought on at 15:00 |
-|20-30|||
+|10-20|Timeout called at 17:00. Both teams had two coaches iteracting with a division each.  |sub broought on at 15:00 |
+|20-30|sub at 25 minutes|sub at 27 minutes, hand signle to player (make the switch???) probably unseen.|
 |Half Time|||
 |30-40|||
 |40-50|||
