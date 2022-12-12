@@ -97,3 +97,32 @@ Repeat with the defender overcommiting and A going into a runner.
 Join them together letting D choose how they are going to make the mistake and the A has to choose which shot to go for.
 Turn into timed shooting game afterwards for a bit of competition.
 
+---
+
+
+# Pre Reading  
+
+| Observational Questions/Considerations | Team 1: Southampton | Team 2: Bearstead |
+|-|-|-|
+|How are coaches responding to the environment throughout the match?|||
+|How is the coach responding to other players/officials?|||
+|How are players responding to their coach in timeouts/pre/end of game?|||
+|What movements does the coach make throughout the match? Where do they sit/position themselves?|During game sat at the bench with their players. Occasionally standing.|Sat with players on the bench. Occasionally gets at event triggers.|
+|When and what type of coach interjections used? (time/outs/pulling division/individuals aside?) |Timeout called at -13:00 |Timetout called at -22:27|
+|How are the coaches managing positive aspects of their teams’ play?|instances of cheering goals.||
+|How are the coaches managing the ‘negative aspects of their teams’ play?|||
+|What tactics have the coaches employed?|||
+|How did the coaches use substitutions? What effect did they have?|||
+
+
+| Time | Team 1: Southampton | Team 2: Bearstead |
+|-|-|-|
+|0-10|started talk at timeout with attack as cloest division |7:30: timeout called. giving instruction for full duration. |
+|10-20|Timeout called at 17:00 |sub broought on at 15:00 |
+|20-30|||
+|Half Time|||
+|30-40|||
+|40-50|||
+|50-55|||
+|Last 5|||
+|End of game|||
