@@ -106,13 +106,13 @@ Turn into timed shooting game afterwards for a bit of competition.
 |-|-|-|
 |How are coaches responding to the environment throughout the match?|||
 |How is the coach responding to other players/officials?|||
-|How are players responding to their coach in timeouts/pre/end of game?|||
+|How are players responding to their coach in timeouts/pre/end of game?|players moving stright to coach. Listening to what coach is saying, but also bringing their views.|same|
 |What movements does the coach make throughout the match? Where do they sit/position themselves?|During game sat at the bench with their players. Occasionally standing.|Sat with players on the bench. Occasionally gets at event triggers.|
 |When and what type of coach interjections used? (time/outs/pulling division/individuals aside?) |Timeout called at -13:00 |Timetout called at -22:27, Spoke to defence (ind or divis?) at -9:45 Timeout called again at 11 minutes|
 |How are the coaches managing positive aspects of their teams’ play?|instances of cheering goals.|instances of cheering goals.|
 |How are the coaches managing the ‘negative aspects of their teams’ play?||Timout used to bring team out and evaluate changes in play they need to make to bring the game into their favor.|
 |What tactics have the coaches employed?|||
-|How did the coaches use substitutions? What effect did they have?|||
+|How did the coaches use substitutions? What effect did they have?|Used two subs to move a player from one division into the other|Used subs more liberaly. possibly ot keep players fresh|
 
 
 | Time | Team 1: Southampton | Team 2: Bearstead |
