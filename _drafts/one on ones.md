@@ -23,9 +23,9 @@ pos of assit
 how to provide the best assistance possileble to a defended attacker
 
 ## KTP
-driving you defender
-deliberate change of direction
-engaging/decieving you defender
+keeping the defener engaged
+stringing movement ogether without breaks
+use that change in speed and direction
 
 we want to loook or getting that spacc#e away from your defender so we are able to put up good shots
 
@@ -33,7 +33,9 @@ this ivolves being able to rea d your efender and and making the a deciison that
 
 to start wiht we will do some simple veering shot
 we will have a feed ou at the side, a attacker that will recieve thee ball, and a defender wo whill be easkly ront defending.
+
 have the feed pass to the attacker, atacker will pass pack and immediately run towards the feed. once the reach a step out from the halfway point hey will, hop onto their outside foot and turn so they are facing the post, while the feedd is passing the ball back, aand land with the ball , ready to take the shot. as they are taking that shot ehy will bring their center  of mass down and over heir back foot, before springing up and taking the shot, remembering o keep that back straigh and ending with the hands up in the air.
+
 defeenders will be slightly of the ball line simulating nott quite having that front defence position.
 rotation: attacker > feed > defence.
 
