@@ -23,13 +23,16 @@ pos of assit
 how to provide the best assistance possileble to a defended attacker
 
 ## KTP
+
+*****
 keeping the defener engaged
-stringing movement ogether without breaks
+stringing movement together without breaks
 use that change in speed and direction
+******
 
-we want to loook or getting that spacc#e away from your defender so we are able to put up good shots
+we want to loook or getting that spacce away from your defender so we are able to put up good shots
 
-this ivolves being able to rea d your efender and and making the a deciison that allows you to exploit what tthey believe that you are going to do.
+this ivolves being able to read your efender and and making the a deciison that allows you to exploit what tthey believe that you are going to do.
 
 to start wiht we will do some simple veering shot
 we will have a feed ou at the side, a attacker that will recieve thee ball, and a defender wo whill be easkly ront defending.
@@ -40,18 +43,18 @@ defeenders will be slightly of the ball line simulating nott quite having that f
 rotation: attacker > feed > defence.
 
 3 loops, go over what went well and could go better.
-
+____
 this time we wll do the same setup again but the efender will provide a better defence o the ball line so the attacker will drie the defender towards the feed, plant their foot and driev awayfrom the feed, at a angle th will cause the defender to turn, this is so that the feed will hae to oppertunity to pass the ball without the ddeffender knowing, over the top, atttaker bringing theselve to a balanced position and taking the shot.
 
 rotation: attacker > feed > defence.
 
 3 loops, go over what went well and could go better.
 what can we do if the defender makes it back into a deefened position?
-
+___
 this time we will have the defender take more of a close rebound postition. 
 same dirll again, but this time the defender will over commit on the veer out, he attacker will pass back to the feed, and go for a running in shot. 
 rotation: attacker > feed > defence.
-
+____
 finallly we will go into making the decisions on the fly. 
 same setup as before. the dfender is going to choose how they defend, fd bad fd well or rebound. attacker and the feed need to read the defender and make the decision on how they are going to respond.
 
