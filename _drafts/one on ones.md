@@ -7,11 +7,27 @@ id: id
 # Session Title
 one on one
 ## Aim
+getting the shot as attack
+
+# factors
+pos of player, balance ect 
+disct from korf
+dist of defender relatie to ball lin
+defended or not
+pos of assit
 
 ## Session length 
-2 Hrs
+20 mins
 
 ## Requirements
+how to provide the best assistance possileble to a defended attacker
+
+## KTP
+driving you defender
+deliberate change of direction
+engaging/decieving you defender
+
+
 
 
 ## Plan
