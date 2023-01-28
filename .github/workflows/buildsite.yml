@@ -33,6 +33,14 @@ jobs:
       - name: Build pages
         run: bundle exec jekyll build -V
      
+      - name: Create tag name
+        run: echo "::set-env name=NOW::$(date +'%Y.%m.%d.%H%M%S')"
+      
+      - name: tag release
+        uses: ncipollo/release-action@v1
+        with:
+          tag: ${{ env.NOW }}
+
       - name:  Login to Registry
         uses: docker/login-action@v2
         with:
