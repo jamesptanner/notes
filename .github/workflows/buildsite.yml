@@ -24,14 +24,14 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Setup ruby
-        uses: actions/setup-ruby@v1
+      # - name: Setup ruby
+      #   uses: actions/setup-ruby@v1
 
-      - name: Install Gems
-        run:  bundle install
+      # - name: Install Gems
+      #   run:  bundle install
 
-      - name: Build pages
-        run: bundle exec jekyll build -V
+      # - name: Build pages
+      #   run: bundle exec jekyll build -V
      
       - name: Create tag name
         run: echo "NOW=$(date +'%Y.%m.%d.%H%M%S')" >> $GITHUB_ENV
