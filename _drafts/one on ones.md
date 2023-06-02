@@ -9,12 +9,12 @@ one on one
 ## Aim
 getting the shot as attack
 
-# factors
-pos of player, balance ect 
-disct from korf
-dist of defender relatie to ball lin
-defended or not
-pos of assit
+## factors
+- pos of player, balance ect 
+- disct from korf
+- dist of defender relatie to ball lin
+- defended or not
+- pos of assit
 
 ## Session length 
 20 mins
@@ -24,11 +24,9 @@ how to provide the best assistance possileble to a defended attacker
 
 ## KTP
 
-*****
-keeping the defener engaged
-stringing movement together without breaks
-use that change in speed and direction
-******
+- keeping the defener engaged
+- stringing movement together without breaks
+- use that change in speed and direction
 
 we want to loook or getting that spacce away from your defender so we are able to put up good shots
 
