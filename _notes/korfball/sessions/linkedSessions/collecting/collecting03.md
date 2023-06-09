@@ -8,6 +8,7 @@ id: progress_collect_3
 Part of the series on [[collecting]]
 
 [[collecting02|prev]]
+[[collecting04|next]]
 
 ## Session
 

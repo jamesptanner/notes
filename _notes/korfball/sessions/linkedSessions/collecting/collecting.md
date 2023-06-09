@@ -4,7 +4,7 @@ title: Progressive on Collecting
 id: progress_collect
 ---
 
-Series of 4 sesions used to improve getting that collect position.
+Series of 4 sessions used to improve getting that collect position.
 
 ### Collecting 1
 [[collecting01|link]]
@@ -21,3 +21,7 @@ Series of 4 sesions used to improve getting that collect position.
 [[collecting03|link]]
  - shooting on collect
  - passing from collect to shooter
+
+### Collecting 4
+[[collecting04|link]]
+ - 
