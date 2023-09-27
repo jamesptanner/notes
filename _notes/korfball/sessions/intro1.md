@@ -28,8 +28,8 @@ na
 split into equal size groups (max 10 per team) 
 aim is to pass the ball from one end of the court to the other and get the ball over the line.
 
-no contact allowed
-no moving with the ball
+* no contact allowed
+* no moving with the ball
 
 #### 50* shot challenge
 
@@ -38,9 +38,9 @@ use the 6 posts.
 
 introduction of some light movement with the ball.
 
-10 one meter
-10 runners
-10 drop offs
+* 10 one meter
+* 10 runners
+* 10 drop offs
 
 helpers setup as the feed/collect
 
