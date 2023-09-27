@@ -4,8 +4,7 @@ title: Freshers Session 1 2023
 id: intro2023_1
 ---
 
-# Session Title
-Freshers Session 1
+# Freshers Session 1
 
 ## Aim
 Introduction to korfball
