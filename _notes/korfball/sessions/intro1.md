@@ -25,16 +25,18 @@ na
 ### Drills
 
 #### Passing game
-split into equal size groups (max 10 per team) 
+split into equal size groups (max 10 per team).
+
 aim is to pass the ball from one end of the court to the other and get the ball over the line.
+
+As the game continues introduce rules such as must make x passes, pass with one hand, etc.
 
 * no contact allowed
 * no moving with the ball
 
 #### 50* shot challenge
 
-modifed version if 50 shot challenge
-use the 6 posts.
+modifed version if 50 shot challenge. split people onto the 6 posts.
 
 introduction of some light movement with the ball.
 
