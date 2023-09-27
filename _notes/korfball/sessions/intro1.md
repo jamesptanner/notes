@@ -1,11 +1,12 @@
 ---
 layout: note
 title: Freshers Session 1 2023
-id: intro1
+id: intro2023_1
 ---
 
 # Session Title
 Freshers Session 1
+
 ## Aim
 Introduction to korfball
 ## Session length 
