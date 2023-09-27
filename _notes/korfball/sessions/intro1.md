@@ -1,6 +1,6 @@
 ---
 layout: note
-title: Freshers Session 1
+title: Freshers Session 1 2023
 id: intro1
 ---
 
