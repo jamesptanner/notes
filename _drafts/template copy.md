@@ -12,17 +12,36 @@ Introduction to korfball
 2 Hrs
 
 ## Requirements
-Posts
+6x posts
 
 ## Plan
+introduction to korfball. 
 
 ## Skills to cover
 
-* Skill 1
-* Skill 2
+na
 
-### Skill 1
+### Drills
 
+#### Passing game
+split into equal size groups (max 10 per team) 
+aim is to pass the ball from one end of the court to the other and get the ball over the line.
+
+no contact allowed
+no moving with the ball
+
+#### 50* shot challenge
+
+modifed version if 50 shot challenge
+use the 6 posts.
+
+introduction of some light movement with the ball.
+
+10 one meter
+10 runners
+10 drop offs
+
+helpers setup as the feed/collect
 
 ## Timings
 <table>
