@@ -17,6 +17,8 @@ Start introduction of the teamwork aspect of korfball
 
 Introduction to team aspect of korfball
 
+follow on from [intro1]
+
 ## Skills to cokver
 
 na
