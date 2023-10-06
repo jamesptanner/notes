@@ -17,7 +17,7 @@ Start introduction of the teamwork aspect of korfball
 
 Introduction to team aspect of korfball
 
-follow on from [intro1]
+follow on from [[intro1]]
 
 ## Skills to cokver
 
@@ -49,9 +49,7 @@ defenders try and remain between the player and the post, but dont block the col
 
 again, make a couple passes around post, then we will have someone go into a collect, within 1-2 passes someone will go into the feed postition, infront of the post, two remaining players move to infront of the feed and take a shot, make a runner ect.
 
-5 shots and then rotate groups
-
-a
+5 shots and then rotate group
 #### games to end
 
 
